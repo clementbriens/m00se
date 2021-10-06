@@ -1,5 +1,5 @@
 # m00se
-python malware project for educative purposes
+Python malware project for educative purposes. This was for me to learn about threat actor TTPs and techniques that underpin malware development.
 
 
 ## Installation
